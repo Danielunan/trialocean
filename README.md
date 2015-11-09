@@ -1,2 +1,2 @@
 # trialocean
-my example apps
+my example AngularJS apps
